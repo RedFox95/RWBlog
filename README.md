@@ -1,2 +1,2 @@
 # RWBlog
-This blog is being created to learn out loud and practice my React.js, Next.js, and Express.js skills!
+This blog is being created to learn out loud and practice my React.js, Express.js and MongoDB skills!
